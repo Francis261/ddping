@@ -1,0 +1,21 @@
+{
+  "name": "ping-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js server that forwards ping requests",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": [
+    "server",
+    "ping",
+    "proxy"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
